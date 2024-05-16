@@ -8,22 +8,18 @@ color: rgb(74, 74, 74);
     --background--header:rgb(253,228,195);
 }
 header{
-    /* width: 100%; */
     height: 90vh;
     background: url('https://stone-horn-a78.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F989539c7-7a6d-4611-9778-eb2623dec992%2F0ba5b70c-e4de-4e4b-87f9-3f873e0e9849%2FsoupHedar.jpg?table=block&id=6aa2b88f-5ac7-4843-8b09-4b6d0e35b988&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=2000&userId=&cache=v2') no-repeat ;
-/* background-position-y:bottom ; */
-/* background-position-x:center ; */
-/* background-size: cover; */
-/* background-size:auto ; */
-background-position: right 35% bottom 20%; ;
+
+background-position: right 30% bottom 10%; ;
 position: relative;
 border-bottom:10px solid rgb(28, 28, 42) ;
 }
 h1{
-    font-size: 7em;
+    font-size: 6em;
     position: absolute;
     bottom: 50%;
-    left: 20%;
+    left: 10%;
 
     color: rgb(255, 255, 255);
 }
